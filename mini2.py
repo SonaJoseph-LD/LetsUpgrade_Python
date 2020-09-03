@@ -4,7 +4,6 @@ class Library():
         self.list_of_book = list_of_book
         self.library_name = library_name
 
-
         for book in self.list_of_book:
             self.lend_data[book] = None
 
@@ -45,8 +44,6 @@ if __name__ == '__main__':
     SonaLibrary = Library(list_of_book, library_name)
 
     while True:
-
-
         opt = int(input("Enter Any one Option \n\n"
                         "1) Display Books\n"
                         "2) Lend Book\n"
@@ -67,12 +64,3 @@ if __name__ == '__main__':
             SonaLibrary.return_book(returnbk)
         else:
             print("sorry")
-
-
-
-
-
-
-
-
-
