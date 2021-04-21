@@ -1,0 +1,151 @@
+country,year,value
+Afghanistan,2005,260
+Afghanistan,2006,255
+Afghanistan,2007,246
+Afghanistan,2008,237
+Afghanistan,2009,228
+Afghanistan,2010,221
+Afghanistan,2011,214
+Afghanistan,2012,207
+Afghanistan,2013,200
+Afghanistan,2014,195
+Afghanistan,2015,191
+Afghanistan,2016,186
+Afghanistan,2017,183
+Afghanistan,2018,180
+Afghanistan,2019,180
+India,2005,148
+India,2006,148
+India,2007,145
+India,2008,148
+India,2009,147
+India,2010,145
+India,2011,144
+India,2012,141
+India,2013,140
+India,2014,137
+India,2015,136
+India,2016,134
+India,2017,131
+India,2018,130
+India,2019,130
+Pakistan,2005,147
+Pakistan,2006,143
+Pakistan,2007,146
+Pakistan,2008,141
+Pakistan,2009,141
+Pakistan,2010,140
+Pakistan,2011,139
+Pakistan,2012,137
+Pakistan,2013,131
+Pakistan,2014,129
+Pakistan,2015,127
+Pakistan,2016,123
+Pakistan,2017,119
+Pakistan,2018,116
+Pakistan,2019,115
+Nepal,2005,140
+Nepal,2006,140
+Nepal,2007,141
+Nepal,2008,141
+Nepal,2009,141
+Nepal,2010,140
+Nepal,2011,141
+Nepal,2012,140
+Nepal,2013,139
+Nepal,2014,137
+Nepal,2015,136
+Nepal,2016,134
+Nepal,2017,133
+Nepal,2018,134
+Nepal,2019,132
+Indonesia,2005,108
+Indonesia,2006,105
+Indonesia,2007,101
+Indonesia,2008,99
+Indonesia,2009,96
+Indonesia,2010,93
+Indonesia,2011,91
+Indonesia,2012,76
+Indonesia,2013,82
+Indonesia,2014,80
+Indonesia,2015,69
+Indonesia,2016,70
+Indonesia,2017,66
+Indonesia,2018,67
+Indonesia,2019,65
+Vietnam,2005,80.95886
+Vietnam,2006,79.44606
+Vietnam,2007,77.56724
+Vietnam,2008,75.85442
+Vietnam,2009,74.12937
+Vietnam,2010,72.05496
+Vietnam,2011,70.13566
+Vietnam,2012,68.0912
+Vietnam,2013,66.67659
+Vietnam,2014,65.01125
+Vietnam,2015,63.13581
+Vietnam,2016,61.47305
+Vietnam,2017,60.31753
+Vietnam,2018,58.31753
+Vietnam,2019,56.31753
+China,2005,111.3419
+China,2006,102.9485
+China,2007,97.83588
+China,2008,95.43913
+China,2009,94.24722
+China,2010,92.97014
+China,2011,90.65488
+China,2012,85.77144
+China,2013,81.73469
+China,2014,78.99032
+China,2015,78.25141
+China,2016,74.70571
+China,2017,72.67679
+China,2018,70.67679
+China,2019,68.67679
+Mongolia,2005,136.6298
+Mongolia,2006,129.279
+Mongolia,2007,121.454
+Mongolia,2008,117.3262
+Mongolia,2009,116.4376
+Mongolia,2010,110.3924
+Mongolia,2011,104.9382
+Mongolia,2012,97.29275
+Mongolia,2013,91.80089
+Mongolia,2014,86.28392
+Mongolia,2015,84.75749
+Mongolia,2016,81.37903
+Mongolia,2017,81.61392
+Mongolia,2018,79.61392
+Mongolia,2019,77.61392
+North Korea,2005,173.1235
+North Korea,2006,169.5857
+North Korea,2007,166.6397
+North Korea,2008,164.0875
+North Korea,2009,161.297
+North Korea,2010,158.9613
+North Korea,2011,156.0795
+North Korea,2012,153.2089
+North Korea,2013,151.3745
+North Korea,2014,148.3602
+North Korea,2015,146.9763
+North Korea,2016,142.6344
+North Korea,2017,140.4387
+North Korea,2018,141.4387
+North Korea,2019,139.4387
+Iraq,2005,92.27554
+Iraq,2006,87.35735
+Iraq,2007,82.44757
+Iraq,2008,76.93883
+Iraq,2009,71.95888
+Iraq,2010,67.61829
+Iraq,2011,61.73664
+Iraq,2012,57.22126
+Iraq,2013,53.68858
+Iraq,2014,48.46972
+Iraq,2015,46.30657
+Iraq,2016,43.9448
+Iraq,2017,42.67742
+Iraq,2018,40.67742
+Iraq,2019,38.67742
